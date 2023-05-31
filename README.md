@@ -1,5 +1,5 @@
 ### Hey there, I'm Essem.
-I'm a software dev mostly interested in multimedia. I'm the creator of esmBot (a popular Discord bot focused on image editing and music playback), have made mods for games like Minecraft, and am very interested in retro computing and the demoscene.
+I'm a software dev mostly interested in multimedia. I'm the creator of esmBot (a popular Discord bot focused on image editing and music playback), have made patches and mods for various games and software, and am very interested in retro computing/systems and the demoscene.
 
 You can see me talk about things over on the Fediverse at [@esm@wetdry.world](https://wetdry.world/@esm). You can reach me (in order of activity) on Discord at [Essem#9261](https://discord.com/users/198198681982205953), through email at [essem@essem.space](mailto:essem@essem.space), on XMPP at [esm@wetdry.world](xmpp:esm@wetdry.world), or through Matrix at [@essem:matrix.n2.pm](https://matrix.to/#/@essem:matrix.n2.pm).
 
