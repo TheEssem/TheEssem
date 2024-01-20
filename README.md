@@ -1,12 +1,12 @@
 ### Hey there, I'm Essem.
-I'm a software dev mostly interested in multimedia. I'm the creator of esmBot (a popular Discord bot focused on image editing and music playback), run and manage the [wetdry.world](https://wetdry.world) and [lethallava.land](https://lethallava.land) community, have made patches and mods for various games and software, and am very interested in retro computing/systems and the demoscene.
+I'm a software dev mostly interested in multimedia. I'm the creator of esmBot (a popular Discord bot focused on image editing and music playback), run and manage the [wetdry.world](https://wetdry.world) and [lethallava.land](https://lethallava.land) community, contribute to various social/multimedia software projects, and am very interested in retro computing/systems and the demoscene.
 
-You can see me talk about things over on the Fediverse at [@esm@wetdry.world](https://wetdry.world/@esm). You can reach me (in order of activity) on Discord at [esm.](https://discord.com/users/198198681982205953), through email at [essem@essem.space](mailto:essem@essem.space), on XMPP at [esm@wetdry.world](xmpp:esm@wetdry.world), or through Matrix at [@essem:matrix.n2.pm](https://matrix.to/#/@essem:matrix.n2.pm).
+You can see me talk about things over on the fediverse at [@esm@wetdry.world](https://wetdry.world/@esm). You can reach me (in order of activity) on Discord at [esm.](https://discord.com/users/198198681982205953), on XMPP at [esm@wetdry.world](xmpp:esm@wetdry.world), or through email at [essem@essem.space](mailto:essem@essem.space). I also have a Matrix account at [@essem:matrix.n2.pm](https://matrix.to/#/@essem:matrix.n2.pm), but I rarely use it.
 
 If you appreciate what I do, feel free to send me some cash through [Ko-fi](https://ko-fi.com/TheEssem) or [Patreon](https://patreon.com/TheEssem).
 
 ![TheEssem's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheEssem&show_icons=true&theme=transparent)
-![TheEssem's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheEssem&hide=php,css,html&hide_progress=true&theme=transparent)
+![TheEssem's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheEssem&hide=php&hide_progress=true&theme=transparent)
 
 <!--
 **TheEssem/TheEssem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
