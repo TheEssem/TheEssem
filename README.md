@@ -1,7 +1,7 @@
 ### Hey there, I'm Essem.
 I'm a software dev mostly interested in multimedia. I'm the creator of esmBot (a popular Discord bot focused on image editing and music playback), run and manage the [wetdry.world](https://wetdry.world) and [lethallava.land](https://lethallava.land) community, contribute to various social/multimedia software projects, and am very interested in retro computing/systems and the demoscene.
 
-You can see me talk about things over on the fediverse at [@esm@wetdry.world](https://wetdry.world/@esm). You can reach me (in order of activity) on Discord at [esm.](https://discord.com/users/198198681982205953), on XMPP at [esm@wetdry.world](xmpp:esm@wetdry.world), or through email at [essem@essem.space](mailto:essem@essem.space). I also have a Matrix account at [@essem:matrix.n2.pm](https://matrix.to/#/@essem:matrix.n2.pm), but I rarely use it.
+You can see me talk about things over on the fediverse at [@esm@wetdry.world](https://wetdry.world/@esm) or on Bluesky at [@essem.space](https://bsky.app/profile/did:plc:ca4b3evcz7rjhni6mngjwfzl). You can reach me (in order of activity) on Discord at [esm.](https://discord.com/users/198198681982205953), on XMPP at [esm@wetdry.world](xmpp:esm@wetdry.world), or through email at [essem@essem.space](mailto:essem@essem.space). I also have a Matrix account at [@essem:matrix.n2.pm](https://matrix.to/#/@essem:matrix.n2.pm), but I rarely use it.
 
 If you appreciate what I do, feel free to send me some cash through [Ko-fi](https://ko-fi.com/TheEssem) or [Patreon](https://patreon.com/TheEssem).
 
